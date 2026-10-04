@@ -1,0 +1,7 @@
+[
+  {"user": "alex_rivera", "text": "Hey @dr.chen, the staging deploy broke again. My phone is +1-555-234-5678 if you need me.", "ts": "1695000001.000100", "channel": "eng-general"},
+  {"user": "dr.chen", "text": "Got it Alex. I'll check the kubernetes cluster. Can you email me at chen.wei@acmecorp.com?", "ts": "1695000002.000200", "channel": "eng-general"},
+  {"user": "alex_rivera", "text": "Sure thing Dr. Chen. Also CC alex.rivera@acmecorp.com on the postmortem.", "ts": "1695000003.000300", "channel": "eng-general"},
+  {"user": "jordan_lee", "text": "FYI the Project Apollo deadline moved. @alex_rivera and @dr.chen please update your Jira tickets.", "ts": "1695000004.000400", "channel": "eng-general"},
+  {"user": "alex_rivera", "text": "My card on file for the cloud account is 4532015112830366, we should rotate that.", "ts": "1695000005.000500", "channel": "eng-general"}
+]

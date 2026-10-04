@@ -1,0 +1,670 @@
+walmart
+exxon mobil
+chevron
+berkshire hathaway
+apple
+general motors
+phillips 66
+general electric
+ford motor
+cvs health
+mckesson
+atandt
+valero energy
+unitedhealth
+verizon
+amerisourcebergen
+fannie mae
+costco
+hp
+kroger
+jp morgan chase
+express scripts holding
+bank of america
+ibm
+marathon petroleum
+cardinal health
+boeing
+citigroup
+amazon.com
+wells fargo
+microsoft
+procter and gamble
+home depot
+archer daniels midland
+walgreens
+target
+johnson and johnson
+anthem
+metlife
+alphabet
+state farm insurance cos
+freddie mac
+comcast
+pepsico
+united technologies
+aig
+ups
+dow chemical
+aetna
+lowe’s
+conocophillips
+intel
+energy transfer equity
+caterpillar
+prudential financial
+pfizer
+walt disney
+humana
+enterprise products partners
+cisco systems
+sysco
+ingram micro
+coca-cola
+lockheed martin
+fedex
+johnson controls
+plains gp holdings
+world fuel services
+chs
+american airlines
+merck
+best buy
+delta air lines
+honeywell international
+hca holdings
+goldman sachs
+tesoro
+liberty mutual insurance
+united continental holdings
+new york life insurance
+oracle
+morgan stanley
+tyson foods
+safeway
+nationwide
+deere
+dupont
+american express
+allstate
+cigna
+mondelez international
+tiaa-cref
+intl fcstone
+massachusetts mutual life insurance
+directv
+halliburton
+twenty-first century fox
+3m
+sears holdings
+general dynamics
+publix super markets
+philip morris international
+tjx
+time warner
+macy’s
+nike
+tech data
+avnet
+northwestern mutual
+mcdonald’s
+exelon
+travelers cos
+qualcomm
+international paper
+occidental petroleum
+duke energy
+rite aid
+gilead sciences
+baker hughes
+emerson electric
+emc
+usaa
+union pacific
+northrop grumman
+alcoa
+capital one financial
+national oilwell varco
+us foods
+raytheon
+time warner cable
+arrow electronics
+aflac
+staples
+abbott laboratories
+community health systems
+fluor
+freeport-mcmoran
+u.s. bancorp
+nucor
+kimberly-clark
+hess
+chesapeake energy
+xerox
+manpowergroup
+amgen
+abbvie
+danaher
+whirlpool
+pbf energy
+hollyfrontier
+eli lilly
+devon energy
+progressive
+cummins
+icahn enterprises
+autonation
+kohl’s
+paccar
+dollar general
+hartford financial services
+southwest airlines
+anadarko petroleum
+southern
+supervalu
+kraft foods
+goodyear tire and rubber
+eog resources
+centurylink
+altria
+tenet healthcare
+general mills
+ebay
+conagra foods
+lear
+trw automotive holdings
+united states steel
+penske automotive
+aes
+colgate-palmolive
+global partners
+thermo fisher scientific
+pgande
+nextera energy
+american electric power
+baxter international
+centene
+starbucks
+gap
+bank of new york mellon
+micron technology
+jabil circuit
+pnc financial services
+kinder morgan
+office depot
+bristol-myers squibb
+nrg energy
+monsanto
+ppg industries
+genuine parts
+omnicom
+illinois tool works
+murphy usa
+land o’lakes
+western refining
+western digital
+firstenergy
+aramark
+dish network
+las vegas sands
+kellogg
+loews
+cbs
+ecolab
+whole foods market
+chubb
+health net
+waste management
+apache
+textron
+synnex
+marriott international
+viacom
+lincoln national
+nordstrom
+c.h. robinson worldwide
+edison international
+marathon oil
+yum brands
+computer sciences
+parker-hannifin
+davita healthcare partners
+carmax
+texas instruments
+wellcare health plans
+marsh and mclennan
+consolidated edison
+oneok
+visa
+jacobs engineering
+csx
+entergy
+facebook
+dominion resources
+leucadia national
+toys “r” us
+dte energy
+ameriprise financial
+vf
+praxair
+j.c. penney
+automatic data processing
+l-3 communications
+cdw
+guardian life ins. co. of america
+xcel energy
+norfolk southern
+ppl
+r.r. donnelley and sons
+huntsman
+bed bath and beyond
+stanley black and decker
+l brands
+liberty interactive
+farmers insurance exchange
+first data
+sherwin-williams
+blackrock
+voya financial
+ross stores
+sempra energy
+estee lauder
+h.j. heinz
+reinsurance group of america
+public service enterprise
+cameron international
+navistar international
+cst brands
+state street
+unum
+hilton worldwide holdings
+family dollar stores
+principal financial
+reliance steel and aluminum
+air products and chemicals
+assurant
+peter kiewit sons’
+henry schein
+cognizant technology solutions
+mgm resorts international
+w.w. grainger
+group 1 automotive
+bbandt
+westrock
+advance auto parts
+ally financial
+agco
+corning
+biogen
+ngl energy partners
+stryker
+molina healthcare
+precision castparts
+discover financial services
+genworth financial
+eastman chemical
+dean foods
+autozone
+mastercard
+owens and minor
+hormel foods
+gamestop
+autoliv
+centerpoint energy
+fidelity national financial
+sonic automotive
+hd supply holdings
+charter communications
+crown holdings
+applied materials
+mosaic
+cbre
+avon products
+republic services
+universal health services
+darden restaurants
+steel dynamics
+suntrust banks
+caesars entertainment
+targa resources
+dollar tree
+news
+ball
+thrivent financial for lutherans
+masco
+franklin resources
+avis budget
+reynolds american
+becton dickinson
+priceline
+broadcom
+tenneco
+campbell soup
+aecom
+visteon
+delek us holdings
+dover
+borgwarner
+jarden
+ugi
+murphy oil
+pvh
+core-mark holding
+calpine
+d.r. horton
+weyerhaeuser
+kkr
+fmc technologies
+american family insurance
+spartannash
+wesco international
+quanta services
+mohawk industries
+motorola solutions
+lennar
+travelcenters of america
+sealed air
+eversource energy
+coca-cola enterprises
+celgene
+williams
+ashland
+interpublic
+blackstone
+ralph lauren
+quest diagnostics
+hershey
+terex
+boston scientific
+newmont mining
+allergan
+o’reilly automotive
+casey’s general stores
+cms energy
+foot locker
+w.r. berkley
+petsmart
+pacific life
+commercial metals
+agilent technologies
+huntington ingalls industries
+mutual of omaha insurance
+live nation entertainment
+dick’s sporting goods
+oshkosh
+celanese
+spirit aerosystems holdings
+united natural foods
+peabody energy
+owens-illinois
+dillard’s
+level 3 communications
+pantry
+lkq
+integrys energy
+symantec
+buckeye partners
+ryder system
+sandisk
+rockwell automation
+dana holding
+lansing trade
+ncr
+expeditors international of washington
+omnicare
+ak steel holding
+fifth third bancorp
+seaboard
+nisource
+cablevision systems
+anixter international
+emcor
+fidelity national information services
+barnes and noble
+kbr
+auto-owners insurance
+jones financial
+avery dennison
+netapp
+iheartmedia
+discovery communications
+harley-davidson
+sanmina
+trinity industries
+j.b. hunt transport services
+charles schwab
+erie insurance
+dr pepper snapple
+ameren
+mattel
+laboratory corp. of america
+tegna
+starwood hotels and resorts
+general cable
+a-mark precious metals
+graybar electric
+energy future holdings
+hrg
+mrc global
+spectra energy
+asbury automotive
+packaging corp. of america
+windstream holdings
+pultegroup
+jetblue airways
+newell brands
+con-way
+calumet specialty products partners
+expedia
+american financial
+tractor supply
+united rentals
+ingredion
+navient
+meadwestvaco
+agl resources
+st. jude medical
+j.m. smucker
+western union
+clorox
+domtar
+kelly services
+old republic international
+advanced micro devices
+netflix
+booz allen hamilton holding
+quintiles transnational holdings
+wynn resorts
+jones lang lasalle
+regions financial
+ch2m hill
+western and southern financial
+lithia motors
+salesforce.com
+alaska air
+host hotels and resorts
+harman international industries
+amphenol
+realogy holdings
+essendant
+hanesbrands
+kindred healthcare
+arris
+insight enterprises
+alliance data systems
+lifepoint health
+pioneer natural resources
+wyndham worldwide
+owens corning
+alleghany
+mcgraw hill financial
+stripe
+instacart
+salesforce
+chipotle
+spotify
+procter gamble
+marriott
+john deere
+raymond james
+lincoln financial
+dana-farber
+adidas
+acmecorp
+synthetic-corp
+gliner
+anthropic
+openai
+google
+amazon
+meta
+tesla
+spacex
+nvidia
+slack
+github
+gitlab
+atlassian
+zoom
+shopify
+mcdonalds
+cocacola
+lowes
+disney
+uber
+lyft
+airbnb
+paypal
+jpmorgan
+jpmorgan chase
+hsbc
+barclays
+deutsche bank
+ubs
+credit suisse
+medtronic
+roche
+novartis
+astrazeneca
+moderna
+biontech
+kaiser permanente
+mayo clinic
+cleveland clinic
+johns hopkins
+stanford
+mit
+harvard
+yale
+berkeley
+ucla
+nyu
+duke
+upenn
+cornell
+columbia university
+oxford
+cambridge
+deloitte
+pwc
+ey
+kpmg
+mckinsey
+bain
+bcg
+accenture
+amd
+cisco
+dell
+hewlett packard
+lenovo
+samsung
+sony
+lg
+siemens
+ge
+honeywell
+dow
+basf
+bayer
+gsk
+sanofi
+takeda
+gilead
+regeneron
+vertex
+bristol myers
+abbott
+baxter
+zimmer
+intuitive surgical
+edwards lifesciences
+thermo fisher
+illumina
+agilent
+perkinelmer
+waters
+bruker
+cerner
+epic systems
+united parcel
+dhl
+usps
+amazon web services
+aws
+azure
+gcp
+google cloud
+sap
+workday
+servicenow
+splunk
+datadog
+new relic
+dynatrace
+pagerduty
+twilio
+square
+block
+plaid
+coinbase
+binance
+kraken
+robinhood
+fidelity
+vanguard
+schwab
+t rowe price
+carlyle
+apollo global
+sequoia
+a16z
+andreessen horowitz
+y combinator
+databricks
+snowflake
+confluent
+mongodb
+elastic
+redis
+postgres
+mysql
+tableau
+looker
+power bi
+okta
+auth0
+cloudflare
+fastly
+akamai
+verisign
+godaddy
+namecheap
+rackspace
+digitalocean
+linode
+ovh
+hetzner
+gandi
+hover
+porkbun
